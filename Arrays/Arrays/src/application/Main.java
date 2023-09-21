@@ -7,6 +7,8 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
+        int div, teste, q4;
+        double q5;
         Locale.setDefault(Locale.US);
         Scanner sc = new Scanner(System.in);
 
